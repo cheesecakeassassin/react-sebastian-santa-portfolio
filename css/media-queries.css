@@ -152,6 +152,7 @@
       background: #1f2024;
       margin: 0 30px;
       clear: both;
+      color: #fff;
    }
 
    ul#nav li {
@@ -162,6 +163,7 @@
       text-align: left;
       border-bottom: 1px solid #2D2E34;
       border-bottom-style: dotted; 
+      color: #fff;
    }
   
    ul#nav li a {  
@@ -171,6 +173,7 @@
       margin: 12px 0; 
       line-height: 16px; /* reset line-height from 48px */
       border: none;
+      color: #fff;
    }  
 
 

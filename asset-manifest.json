@@ -1,28 +1,13 @@
 {
-  "files": {
-    "main.css": "/react-sebastian-santa-portfolio/static/css/main.90e75332.chunk.css",
-    "main.js": "/react-sebastian-santa-portfolio/static/js/main.f4d1c7cb.chunk.js",
-    "main.js.map": "/react-sebastian-santa-portfolio/static/js/main.f4d1c7cb.chunk.js.map",
-    "runtime-main.js": "/react-sebastian-santa-portfolio/static/js/runtime-main.2a2eaa61.js",
-    "runtime-main.js.map": "/react-sebastian-santa-portfolio/static/js/runtime-main.2a2eaa61.js.map",
-    "static/js/2.9963af0f.chunk.js": "/react-sebastian-santa-portfolio/static/js/2.9963af0f.chunk.js",
-    "static/js/2.9963af0f.chunk.js.map": "/react-sebastian-santa-portfolio/static/js/2.9963af0f.chunk.js.map",
-    "static/js/3.c1203549.chunk.js": "/react-sebastian-santa-portfolio/static/js/3.c1203549.chunk.js",
-    "static/js/3.c1203549.chunk.js.map": "/react-sebastian-santa-portfolio/static/js/3.c1203549.chunk.js.map",
-    "index.html": "/react-sebastian-santa-portfolio/index.html",
-    "static/css/main.90e75332.chunk.css.map": "/react-sebastian-santa-portfolio/static/css/main.90e75332.chunk.css.map",
-    "static/js/2.9963af0f.chunk.js.LICENSE.txt": "/react-sebastian-santa-portfolio/static/js/2.9963af0f.chunk.js.LICENSE.txt",
-    "static/media/0.jpg": "/react-sebastian-santa-portfolio/static/media/0.b18c130d.jpg",
-    "static/media/1.jpg": "/react-sebastian-santa-portfolio/static/media/1.ffe481f4.jpg",
-    "static/media/2.jpg": "/react-sebastian-santa-portfolio/static/media/2.da4d6061.jpg",
-    "static/media/3.jpg": "/react-sebastian-santa-portfolio/static/media/3.dd376ef9.jpg",
-    "static/media/4.jpg": "/react-sebastian-santa-portfolio/static/media/4.ed3b1a69.jpg",
-    "static/media/cover-image.533ae8f6.jpg": "/react-sebastian-santa-portfolio/static/media/cover-image.533ae8f6.jpg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.2a2eaa61.js",
-    "static/js/2.9963af0f.chunk.js",
-    "static/css/main.90e75332.chunk.css",
-    "static/js/main.f4d1c7cb.chunk.js"
-  ]
+  "main.css": "/react-sebastian-santa-portfolio/static/css/main.c097f0f4.chunk.css",
+  "main.js": "/react-sebastian-santa-portfolio/static/js/main.6706a5cf.chunk.js",
+  "main.js.map": "/react-sebastian-santa-portfolio/static/js/main.6706a5cf.chunk.js.map",
+  "static/js/1.6eb6405c.chunk.js": "/react-sebastian-santa-portfolio/static/js/1.6eb6405c.chunk.js",
+  "static/js/1.6eb6405c.chunk.js.map": "/react-sebastian-santa-portfolio/static/js/1.6eb6405c.chunk.js.map",
+  "runtime~main.js": "/react-sebastian-santa-portfolio/static/js/runtime~main.a9aff1eb.js",
+  "runtime~main.js.map": "/react-sebastian-santa-portfolio/static/js/runtime~main.a9aff1eb.js.map",
+  "static/css/main.c097f0f4.chunk.css.map": "/react-sebastian-santa-portfolio/static/css/main.c097f0f4.chunk.css.map",
+  "index.html": "/react-sebastian-santa-portfolio/index.html",
+  "precache-manifest.166016827b812ce70da4d6b237cf3fc1.js": "/react-sebastian-santa-portfolio/precache-manifest.166016827b812ce70da4d6b237cf3fc1.js",
+  "service-worker.js": "/react-sebastian-santa-portfolio/service-worker.js"
 }

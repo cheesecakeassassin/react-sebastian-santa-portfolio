@@ -1,16 +1,12 @@
 {
   "homepage": "http://cheesecakeassassin.github.io/react-sebastian-santa-portfolio",
-  "name": "sebastian-santa-portfolio",
+  "name": "react-sebastian-santa-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.12.0",
-    "@testing-library/react": "^11.2.6",
-    "@testing-library/user-event": "^12.8.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.1"
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-scripts": "2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -21,26 +17,15 @@
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+    "extends": "react-app"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
   "devDependencies": {
-    "@testing-library/jest-dom": "^5.8.0",
-    "@testing-library/react": "^9.5.0",
-    "gh-pages": "^3.0.0"
+    "gh-pages": "^4.0.0"
   }
 }

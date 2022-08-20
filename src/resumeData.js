@@ -24,35 +24,35 @@ let resumeData = {
     "skillsDescription":"Skills I've obtained over the years",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"Java"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Python"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"C"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Project 1",
+        "description":"Android App",
+        "imgurl":"images/portfolio/origami.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Project 2",
+        "description":"React.js Web App",
+        "imgurl":"images/portfolio/console.jpg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Project 3",
+        "description":"Vue 3 App",  
+        "imgurl":"images/portfolio/coffee.jpg"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Project 4",
+        "description":"Python Flask API",
+        "imgurl":"images/portfolio/retrocam.jpg"
       }
     ],
   }

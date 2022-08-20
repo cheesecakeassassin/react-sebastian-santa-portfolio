@@ -34,6 +34,39 @@ body { background: #0f0f0f; }
    transition: fill .3s ease-in-out, stroke .3s ease-in-out;
 }
 
+/* DEMO-SPECIFIC STYLES */
+.typewriter h1 {
+   color: #fff;
+   font-family: monospace;
+   overflow: hidden; /* Ensures the content is not revealed until the animation */
+   border-right: 0.15em solid orange; /* The typwriter cursor */
+   white-space: nowrap; /* Keeps the content on a single line */
+   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+   letter-spacing: 0.15em; /* Adjust as needed */
+   animation: typing 3.5s steps(30, end), blink-caret 1s step-end infinite;
+ }
+ 
+ /* The typing effect */
+ @keyframes typing {
+   from {
+     width: 0;
+   }
+   to {
+     width: 100%;
+   }
+ }
+ 
+ /* The typewriter cursor effect */
+ @keyframes blink-caret {
+   from,
+   to {
+     border-color: transparent;
+   }
+   50% {
+     border-color: orange;
+   }
+ }
+
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
 /* ------------------------------------------------------------------ */
@@ -260,48 +293,48 @@ ul#nav li.current a { color: #F06000; }
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
 
-#resume {
+#skills {
    background: #fff;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
-#resume a:hover, #resume a:focus { color: #313131; }
+#skills a, #skills a:visited  { color: #11ABB0; }
+#skills a:hover, #skills a:focus { color: #313131; }
 
-#resume h1 {
+#skills h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
-#resume h1 span {
+#skills h1 span {
    border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
 }
-#resume h3 {
+#skills h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
 
-#resume .header-col { padding-top: 9px; }
-#resume .main-col { padding-right: 10%; }
+#skills .header-col { padding-top: 9px; }
+#skills .main-col { padding-right: 10%; }
 
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
-#resume .info {
+#skills .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
 }
-#resume .info span {
+#skills .info span {
    margin-right: 5px;
    margin-left: 5px;
 }
-#resume .date {
+#skills .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }

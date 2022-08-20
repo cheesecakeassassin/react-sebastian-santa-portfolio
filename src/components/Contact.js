@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-export default class ContactUs extends Component {
+export default class Contact extends Component {
     render() {
         return (
             <section id="contact">
@@ -13,7 +13,7 @@ export default class ContactUs extends Component {
                         <div className="widget">
                             <h4>
                                 Email:
-                                <a href="mailto:santa.sebastian@outlook.com"> santa.sebastian@outlook</a>
+                                <a href="mailto:santa.sebastian@outlook.com"> santa.sebastian@outlook.com</a>
                             </h4>
                             <h4>
                                 Phone #: <a href="tel:786-566-3177" cm_dontconvertlink>(786)566-3177</a>

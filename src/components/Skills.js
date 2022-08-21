@@ -5,25 +5,25 @@ export default class Skills extends Component {
         return (
             <section id="skills">
                 <div className="row skill">
-                    <div className="three columns header-col">
+                    <div className="one columns header-col">
                         <h1>
                             <span>Skills</span>
                         </h1>
                     </div>
 
-                    <div className="nine columns main-col">
+                    <div className="eleven columns main-col">
                         <div>
-                            <ul className="skills">
+                            <div className="skills" style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-evenly' }}>
                                 {resumeData.skills &&
                                     resumeData.skills.map((item) => {
                                         return (
-                                            <li>
-                                                <span />
-                                                <em>{item.skillname}</em>
-                                            </li>
+                                            <div style={{ padding: '15px 15px 15px 15px', textAlign: 'center'}}>
+                                                <i className={`devicon-${item.skillname.toLowerCase()}-plain colored`} style={{ fontSize: '100px' }}></i>
+                                                <h2>{ item.realName || item.skillname }</h2>
+                                            </div>
                                         )
                                     })}
-                            </ul>
+                            </div>
                         </div>
                     </div>
                 </div>

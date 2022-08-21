@@ -83,7 +83,7 @@ export default class Header extends Component {
                             <div className="typewriter">
                                 <h1 key={loopArr[this.state.index]}>{loopArr[this.state.index]}</h1>
                             </div>
-                            <h3 style={{ color: '#fff', fontFamily: 'sans-serif ' }}>
+                            <h3 style={{ color: '#fff', fontFamily: 'sans-serif' }}>
                                 I am a {resumeData.role}. {resumeData.roleDescription}
                             </h3>
                             <hr />

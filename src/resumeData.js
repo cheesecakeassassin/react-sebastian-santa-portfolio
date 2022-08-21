@@ -31,7 +31,78 @@ let resumeData = {
       },
       {
         "skillname":"C"
-      }
+      },
+      {
+        "skillname":"Csharp",
+        "realName":"C#"
+      },
+      {
+        "skillname":"Kotlin"
+      },
+      {
+        "skillname":"JavaScript"
+      },
+      {
+        "skillname":"HTML5"
+      },
+      {
+        "skillname":"CSS3"
+      },
+      {
+        "skillname":"React",
+        "realName":"ReactJS"
+      },
+      {
+        "skillname":"VueJS",
+        "realName":"Vue 3"
+      },
+      {
+        "skillname":"NodeJS"
+      },
+      {
+        "skillname":"TailwindCSS"
+      },
+      {
+        "skillname":"Bootstrap"
+      },
+      {
+        "skillname":"Flask"
+      },
+      {
+        "skillname":"dot-NET",
+        "realName":".NET"
+      },
+      {
+        "skillname":"MySQL"
+      },
+      {
+        "skillname":"MongoDB"
+      },
+      {
+        "skillname":"PostgreSQL"
+      },
+      {
+        "skillname":"GraphQL"
+      },
+      {
+        "skillname":"Redis"
+      },
+      {
+        "skillname":"Git"
+      },
+      {
+        "skillname":"GitHub"
+      },
+      {
+        "skillname":"Heroku"
+      },
+      {
+        "skillname":"androidstudio",
+        "realName":"Android Studio"
+      },
+      {
+        "skillname":"Photoshop"
+      },
     ],
     "portfolio":[
       {

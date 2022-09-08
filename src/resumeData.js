@@ -106,23 +106,23 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"Project 1",
-        "description":"Android App",
+        "name":"Flowers-to-Go",
+        "description":"E-Commerce Web App",
         "imgurl":"images/portfolio/origami.jpg"
       },
       {
-        "name":"Project 2",
-        "description":"React.js Web App",
+        "name":"Marvel Countdown Clock",
+        "description":"Marvel Films Web App",
         "imgurl":"images/portfolio/console.jpg"
       },
       {
-        "name":"Project 3",
-        "description":"Vue 3 App",  
+        "name":"Twitch User Search",
+        "description":"Twitch API Web App",  
         "imgurl":"images/portfolio/coffee.jpg"
       },
       {
-        "name":"Project 4",
-        "description":"Python Flask API",
+        "name":"Football Fan Central",
+        "description":"Soccer Standings/Highlights Web App",
         "imgurl":"images/portfolio/retrocam.jpg"
       }
     ],

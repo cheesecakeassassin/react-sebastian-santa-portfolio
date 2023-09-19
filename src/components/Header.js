@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 const lichessLink = 'lichess'
 const loopArr = ['I am Sebastian Santa.', 'Yo soy Sebastián Santa.', '私はセバスチャンです。']
 
-export default class Header extends Component {
+class Header extends Component {
     constructor(props) {
         super(props)
 
@@ -127,3 +127,5 @@ export default class Header extends Component {
         )
     }
 }
+
+export default Header;

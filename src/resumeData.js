@@ -24,84 +24,113 @@ let resumeData = {
     "skillsDescription":"Skills I've obtained over the years",
     "skills":[
       {
-        "skillname":"Java"
+        "skillname":"Java",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
       },
       {
-        "skillname":"Python"
+        "skillname":"Python",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
       },
       {
-        "skillname":"C"
+        "skillname":"C",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
       },
       {
         "skillname":"Csharp",
-        "realName":"C#"
+        "realName":"C#",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
       },
       {
-        "skillname":"Kotlin"
+        "skillname":"PHP",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
       },
       {
-        "skillname":"JavaScript"
+        "skillname":"Kotlin",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
       },
       {
-        "skillname":"HTML5"
+        "skillname":"JavaScript",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
       },
       {
-        "skillname":"CSS3"
+        "skillname":"HTML5",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      },
+      {
+        "skillname":"CSS3",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
       },
       {
         "skillname":"React",
-        "realName":"ReactJS"
+        "realName":"ReactJS",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
       },
       {
         "skillname":"VueJS",
-        "realName":"Vue 3"
+        "realName":"Vue 3",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
       },
       {
-        "skillname":"NodeJS"
+        "skillname":"NodeJS",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
       },
       {
-        "skillname":"TailwindCSS"
+        "skillname":"TailwindCSS",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
       },
       {
-        "skillname":"Bootstrap"
+        "skillname":"Bootstrap",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
       },
       {
-        "skillname":"Flask"
+        "skillname":"Flask",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
       },
       {
         "skillname":"dot-NET",
-        "realName":".NET"
+        "realName":".NET",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
       },
       {
-        "skillname":"MySQL"
+        "skillname":"MySQL",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
       },
       {
-        "skillname":"MongoDB"
+        "skillname":"MongoDB",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
       },
       {
-        "skillname":"PostgreSQL"
+        "skillname":"PostgreSQL",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
       },
       {
-        "skillname":"GraphQL"
+        "skillname":"GraphQL",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
       },
       {
-        "skillname":"Redis"
+        "skillname":"Redis",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
       },
       {
-        "skillname":"Git"
+        "skillname":"Git",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
       },
       {
-        "skillname":"GitHub"
+        "skillname":"GitHub",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
       },
       {
-        "skillname":"Heroku"
+        "skillname":"Heroku",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"
       },
       {
         "skillname":"androidstudio",
-        "realName":"Android Studio"
+        "realName":"Android Studio",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
       },
       {
-        "skillname":"Photoshop"
+        "skillname":"Photoshop",
+        "src":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
       },
     ],
     "portfolio":[

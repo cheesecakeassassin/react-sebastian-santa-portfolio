@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-export default class Porfolio extends Component {
+
+class Porfolio extends Component {
   render() {
     let resumeData = this.props.resumeData;
     return (
@@ -34,3 +35,5 @@ export default class Porfolio extends Component {
         );
   }
 }
+
+export default Porfolio;
